@@ -8,9 +8,11 @@ Prestataire : IMIE Nantes, promotion CDI12, Groupe SSRIJ
 
 ***** BUT du truc --> chacun formule ses questions à partir du "Bilan en vrac des questions retenues"
 
+1-Qui seront les utilisateurs de l'application ? (élève, enseignant, coordinateur, référents légaux, administrateur).
 
+2-Qui aura en charge l'administration de l'application ? (coordinateur ?)
 
-
+3-Quelles seront les fonctionnalités possibles (autorisées) pour chaque utilisateur ?
 
 ***Bilan en vrac des questions retenues
 
@@ -19,19 +21,8 @@ Prestataire : IMIE Nantes, promotion CDI12, Groupe SSRIJ
 
 
 
-Qui seront les utilisateurs de l'application ? (élève, enseignant, coordinateur, référents légaux, administrateur).
-
 En fin d'année scolaire, un bilan est envoyé aux représentants légaux d'un élève. Ont-ils un accès au livret pendant l'année scolaire ?
 
-
-
-Qui aura en charge l'administration de l'application ? (coordinateur ?)
-
-Quelles seront les fonctionnalités possibles (autorisées) pour chaque utilisateur ?
-
-
-
-droit par utilisateur ?
 
 
 Comment sont identifiées les compétences clés (prioritaires) d'un élève.
