@@ -1,0 +1,88 @@
+
+
+Questions fonctionnelles
+Client : CENS
+Prestataire : IMIE Nantes, promotion CDI12, Groupe SSRIJ
+
+
+
+***** BUT du truc --> chacun formule ses questions à partir du "Bilan en vrac des questions retenues"
+
+
+
+
+
+***Bilan en vrac des questions retenues
+
+
+
+
+
+
+Qui seront les utilisateurs de l'application ? (élève, enseignant, coordinateur, référents légaux, administrateur).
+
+En fin d'année scolaire, un bilan est envoyé aux représentants légaux d'un élève. Ont-ils un accès au livret pendant l'année scolaire ?
+
+
+
+Qui aura en charge l'administration de l'application ? (coordinateur ?)
+
+Quelles seront les fonctionnalités possibles (autorisées) pour chaque utilisateur ?
+
+
+
+droit par utilisateur ?
+
+
+Comment sont identifiées les compétences clés (prioritaires) d'un élève.
+
+
+Quels sont les besoins d'impression, de représentation graphique (diagramme, camenbert, ...).
+
+
+Quel est le formalisme du bilan sommatif adressé aux représentants légaux.
+
+
+Peut-il s'auto-évaluer n'importe quand au cours d'une année ?
+
+
+Doit-il compléter son livret forcément au lycée ?
+
+
+Est-ce le professeur qui propose/soumet un cours de soutien ?
+
+
+Un élève voit-il les dates de changement de statut d'acquisition des compétences ?
+
+
+
+
+L'outil devra t'il permettre de générer les stats (% compétences facilement acquises) mentionnées dans le Cdc ?
+
+
+A quoi correspondent les colonnes "ELEVE" et "ENSEIGNANT" dans la version papier du LPC ?
+
+
+Qui définit les dates d'évaluation ?
+
+
+Un "écart" c'est quoi concrètement ?
+
+
+Quelles sont les calculs automatiques que l'outil devra réaliser ?
+
+
+Serait-il possible de fournir un exemple de LPC REMPLI ?
+
+
+
+Quoi ?
+
+Comment ?
+
+Quand ?
+
+Combien ?
+
+Pourquoi ?
+
